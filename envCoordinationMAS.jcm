@@ -29,9 +29,9 @@ mas envCoordinationMAS {
          agents: bob, alice, maria, francois, giacomo // these agents will join the workspace
  
          // the artifact is now created by bob on demand (one for each start goal)
-         artifact auction1 : auction_env.AuctionArtifact() {
-             focused-by: bob, alice, maria, francois, giacomo
-         }
+//         artifact auction1 : auction_env.AuctionArtifact() {
+//             focused-by: bob, alice, maria, francois, giacomo
+//         }
          
      }
 
